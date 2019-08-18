@@ -1,1 +1,2 @@
-# Add your variables here
+#d Add your variables here
+first_number = 0
